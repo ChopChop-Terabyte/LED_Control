@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "Blink_led",
-    "project_version":    "48d0a54-dirty",
+    "project_version":    "13e2598-dirty",
     "project_path":       "/home/ndt0012/Documents/ESP32/Blink_led",
     "idf_path":           "/home/ndt0012/esp/v5.3.1/esp-idf",
     "build_dir":          "/home/ndt0012/Documents/ESP32/Blink_led/build",
@@ -1180,8 +1180,8 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/main/libmain.a",
-            "sources": [ "/home/ndt0012/Documents/ESP32/Blink_led/main/main.c" ],
-            "include_dirs": [ "." ]
+            "sources": [ "/home/ndt0012/Documents/ESP32/Blink_led/main/main.c", "/home/ndt0012/Documents/ESP32/Blink_led/main/WIFI/WIFI.c", "/home/ndt0012/Documents/ESP32/Blink_led/build/github_cert.pem.S" ],
+            "include_dirs": [ ".", "WIFI" ]
         },
         "mbedtls": {
             "alias": "idf::mbedtls",
@@ -2791,7 +2791,7 @@
             "priv_reqs": [],
             "managed_reqs": [],
             "managed_priv_reqs": [],
-            "include_dirs": [ "." ]
+            "include_dirs": [ ".", "WIFI" ]
         }
     },
     "debug_prefix_map_gdbinit": ""
