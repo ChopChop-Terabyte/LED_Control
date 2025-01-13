@@ -150,6 +150,13 @@
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/esp_bootloader_format/CMakeFiles/install/local.dir
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/esp_bootloader_format/CMakeFiles/install/strip.dir
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/__idf_app_update.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/blank_ota_data.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/read-otadata.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/read_otadata.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/erase-otadata.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/erase_otadata.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/otadata-flash.dir
+/home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/encrypted-otadata-flash.dir
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/edit_cache.dir
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/rebuild_cache.dir
 /home/ndt0012/Documents/ESP32/Blink_led/build/esp-idf/app_update/CMakeFiles/list_install_components.dir
