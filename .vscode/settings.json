@@ -13,5 +13,10 @@
     "idf.port": "/dev/ttyUSB0",
     "idf.pythonBinPath": "/home/ndt0012/.espressif/python_env/idf5.3_py3.12_env/bin/python",
     "idf.toolsPath": "/home/ndt0012/.espressif",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "files.associations": {
+        "*.txt": "code-text-binary",
+        "*.py": "python",
+        "esp_http_client.h": "c"
+    }
 }
