@@ -17,9 +17,9 @@ void LED_config() {
 
 	while(1) {
 		gpio_set_level(LED, 0);
-		vTaskDelay(1000 / portTICK_PERIOD_MS);
+		vTaskDelay(500 / portTICK_PERIOD_MS);
 		gpio_set_level(LED, 1);
-		vTaskDelay(1000 / portTICK_PERIOD_MS);
+		vTaskDelay(500 / portTICK_PERIOD_MS);
 	}
 }
 
